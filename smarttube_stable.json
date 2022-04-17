@@ -1,0 +1,98 @@
+{
+    "package": {
+        "downloadUrlList": [
+            "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk"
+        ]
+    },
+
+    "14.60": {
+        "versionCode": 650,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "14.59": {
+        "versionCode": 649,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "14.36": {
+        "versionCode": 626,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "14.16": {
+        "versionCode": 606,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "14.11": {
+        "versionCode": 601,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "14.06": {
+        "versionCode": 596,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "13.81": {
+        "versionCode": 571,
+        "changelog": ["Cumulative fixes from the beta", "Chinese firmware support"],
+        "changelog_ru": ["Накопленные изменения из беты", "Совместимость с китайскими прошивками"]
+    },
+    "13.60": {
+        "versionCode": 550,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "13.47": {
+        "versionCode": 537,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "13.31": {
+        "versionCode": 521,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.99": {
+        "versionCode": 489,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.79": {
+        "versionCode": 469,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.58": {
+        "versionCode": 448,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам"]
+    },
+    "12.50": {
+        "versionCode": 440,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.45": {
+        "versionCode": 435,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.42": {
+        "versionCode": 432,
+        "changelog": ["Cumulative fixes from beta"],
+        "changelog_ru": ["Накопленные изменения из беты"]
+    },
+    "12.24": {
+        "versionCode": 414,
+        "changelog": ["Cumulative fixes from beta: search etc"],
+        "changelog_ru": ["Накопленные изменения из беты: поиск и т.д."]
+    },
+    "11.98": {
+        "versionCode": 388,
+        "changelog": ["Screensaver fix", "Improve Auto frame rate", "Revert some changes from prev. release"],
+        "changelog_ru": ["Исправление работы скринсейвера", "Улучшение работы автофреймрейта", "Частичный возврат изменений пред. релиза"]
+    }
+}
